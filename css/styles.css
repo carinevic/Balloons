@@ -9,7 +9,7 @@ body{
 .balloon{
     width: 100px;
     height: 200px;
-    top: 50vh;
+    top: 100vh;
     position: absolute;
    
     background-size: cover;
